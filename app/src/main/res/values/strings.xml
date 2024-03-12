@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExchangeRatesApp</string>
+    <string name="no_data">No data</string>
+    <string name="eur">EUR</string>
+    <string name="equal">=</string>
+    <string name="_0">0</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="convert">CONVERT</string>
+</resources>
